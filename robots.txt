@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://outdoorlifestyle.tech/sitemap.xml
